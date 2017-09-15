@@ -1,7 +1,8 @@
 {
-    "name": "behzad/task",
-    "license": "proprietary",
+    "name": "behzadashrafiani/modus-crash-test",
+    "license": "MIT",
     "type": "project",
+    "description": "The \"Modus Create crash test assignment \" distribution",
     "autoload": {
         "psr-4": {
             "AppBundle\\": "src/AppBundle"
