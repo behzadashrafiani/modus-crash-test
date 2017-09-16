@@ -65,6 +65,6 @@ to run local server.
 
 you can run commands to test the API as well:
 
-    http "http://localhost:8000/vehicles/{MODELYEAR]/{MANUFACTURER}/{MODEL}"
-    http "http://localhost:8000/vehicles/{MODELYEAR]/{MANUFACTURER}/{MODEL}?withRating=true"
+    http "http://localhost:8000/vehicles/{MODELYEAR}/{MANUFACTURER}/{MODEL}"
+    http "http://localhost:8000/vehicles/{MODELYEAR}/{MANUFACTURER}/{MODEL}?withRating=true"
     http POST "http://localhost:8000/vehicles/"
